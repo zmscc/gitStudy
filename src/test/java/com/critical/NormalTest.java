@@ -40,6 +40,4 @@ public class NormalTest {
         System.out.println("time2 = " + (t4 - t3));
         System.out.println("count2 = " + count2);
     }
-    //测试修改
-    //ceshi
 }
